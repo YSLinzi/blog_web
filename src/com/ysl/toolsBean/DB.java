@@ -10,7 +10,7 @@ public class DB {
 	private Connection con;
 	private PreparedStatement ps;
 	private String user="root";
-	private String password="yushuo12";
+	private String password="你的密码";
 	private String className="com.mysql.cj.jdbc.Driver";
 	private String url="jdbc:mysql://localhost:3306/bloguser?serverTimezone=Asia/Shanghai";
 
